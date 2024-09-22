@@ -75,10 +75,6 @@ The owner calls the listHouse function to list a house for sale by providing the
 3. Buying a House
 
 A buyer calls the buyHouse function and sends the required Ether. If successful, ownership of the house is transferred, and the previous owner receives the payment.
-Considerations
-
-    Ensure the contract owner correctly lists house details.
-    Buyers must send the correct Ether amount when purchasing a house.
 
 License
 
